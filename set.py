@@ -1,0 +1,11 @@
+myset = {1,2,3,4,5,6,7}
+print(myset)
+print(list(myset))
+myset.add(10)
+print(myset)
+myset.remove(1)
+print(myset)
+print(myset.discard(7))
+print(myset)
+myset.pop()
+print(myset)
